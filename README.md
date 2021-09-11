@@ -58,4 +58,4 @@ The steps for this application are divided into the following sections:
 ---
 
 ## Contributors
-Jackie You, Jamal Rizvi and Clare Collity with the support of UC Berkeley FinTech Boot Camp Staff
+Jackie You, Jamal Rizvi and Clare Collity 
